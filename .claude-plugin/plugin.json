@@ -1,0 +1,16 @@
+{
+  "name": "klisten-modelroute",
+  "version": "0.1.0",
+  "description": "Read the last published AI model metadata catalog with timestamps and freshness. Catalog lookup only; no model execution, quality guarantee, or purchase.",
+  "author": {
+    "name": "Klisten Inc",
+    "email": "klisteninc@gmail.com",
+    "url": "https://klisten.co.kr"
+  },
+  "homepage": "https://klisten.co.kr/docs.html",
+  "license": "UNLICENSED",
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://klisten.co.kr/privacy.html",
+  "termsOfServiceUrl": "https://klisten.co.kr/terms.html",
+  "documentationUrl": "https://klisten.co.kr/docs.html"
+}
